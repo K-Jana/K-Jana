@@ -1,2 +1,1 @@
--Hi there,  I'm Jana
--I am interest in data analytical and data science projects.
+-Hi there,  I'm Jana. I am interest in data analytical and data science projects.
