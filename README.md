@@ -3,7 +3,7 @@
 **Data Analyst (Marketing)** | **Workflow Automation Specialist** | **Software Engineering Graduate**
  
 I love turning data into insights, automating workflows, and building solutions that make a positive impact. 
-
+Check out my website at [janadesigns.com](https://janadesigns.com/)
 
 ## About Me  
 - Currently: **Data Analyst in Marketing** (working with performance data, dashboards and reporting automation)  
